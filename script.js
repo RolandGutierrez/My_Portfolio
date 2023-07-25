@@ -1,15 +1,15 @@
 // Supongamos que tienes un arreglo de objetos con tu experiencia laboral
 const experienciaLaboral = [{
-        empresa: 'Empresa 1',
+        empresa: 'Empresa EpikoTechnology',
         puesto: 'Desarrollador Web FrontEnd',
         fecha: 'Agosto 2022 - marzo 2023',
-        descripcion: 'Trabajé en el desarrollo y mantenimiento de aplicaciones web.'
+        descripcion: 'Trabajé en el desarrollo y mantenimiento de sistema de facturación electrónoca.'
     },
     {
-        empresa: 'Empresa 2',
+        empresa: 'Empresa EpikoTechnology',
         puesto: 'Desarrollador Web FrontEnd',
         fecha: 'Marzo 2023 - Julio 2023',
-        descripcion: 'Me encargué del diseño de interfaces y la experiencia del usuario.'
+        descripcion: 'Me encargué del diseño de interfaces y la experiencia del usuario de un sistema de gestión de créditos.'
     },
     // Agrega más trabajos anteriores si es necesario
 ];
